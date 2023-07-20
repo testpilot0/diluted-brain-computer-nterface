@@ -1,7 +1,9 @@
 # diluted-brain-computer-nterface
 ![Laser-BCI](https://github.com/testpilot0/diluted-brain-computer-nterface/assets/43688445/4d430b2f-1200-40b2-9a7f-288cb8f2187e)
 
-Nano-based Dynamically Diluted Brain Interface (source: https://www.facebook.com/profile.php?id=100054384633625)
+Nano-based Dynamically Diluted Brain Interface 
+   - Youtube demonstration: https://www.youtube.com/watch?v=dsjxe4xaKB4&t=35s
+   - Facebook group: https://www.facebook.com/profile.php?id=100054384633625
 
 New type of invasive brain-computer interface - "Nano-based dynamically diluted brain interface" (NDDBI), which will not require surgical operation. Instead, it will leverage methods used in Nano-medicine for delivering nanoparticles to certain areas of the human body and techniques developed in positron emission tomography for studying distribution of neuro-mediators in the brain. NDDBI can be used for novel brain to machine interfaces (BMI) which can provide new ways for mental performance enhancements, provide new therapies for brain trauma, drug obsession as well as treat neurological disorders such as Autism and Parkinson’s disease. The current methods like injecting electrodes and syringe-injectable electronics might require surgical operations or does not provide a clear way to remove electronics from brain tissue if something goes wrong. Unlike those approaches, NDDBI provide a way to establish temporal two-ways wireless brain computer interface which will dissolve over the time of a few hours. This ability to dissolve is important advantage of NDDBI over to current BMI methods.
 
